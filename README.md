@@ -9,6 +9,17 @@ Everything runs in the browser; data is stored in `localStorage` and restored on
 | --- | --- |
 | ![Desktop week view](docs/screenshots/desktop-week.png) | ![Mobile week view](docs/screenshots/mobile-week.png) |
 
+<details>
+<summary>More screenshots</summary>
+
+| | |
+| --- | --- |
+| ![Recurring scope dialog](docs/screenshots/desktop-recurring-scope.png) | ![Month view](docs/screenshots/desktop-month.png) |
+| ![Event editor](docs/screenshots/desktop-editor.png) | ![Mobile month](docs/screenshots/mobile-month.png) |
+| ![Mobile editor with touch controls](docs/screenshots/mobile-editor.png) | ![Mobile recurring scope](docs/screenshots/mobile-recurring-scope.png) |
+
+</details>
+
 ## Features
 
 - **Week view first** – 24h time grid (30‑min guides), sticky day header, all‑day lane, current‑time line,
